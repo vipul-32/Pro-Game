@@ -1,0 +1,39 @@
+{
+    "name" : "Tic-Tac-Game",
+    "start_url" : "/Pro-Game",
+    "theme_color" : "blue",
+    "background_color" : "yellow",
+    "display" : "standalone",
+    "icons" : [
+        {
+            "src" : "asset/images/SKILLHUB-48-48.png",
+            "sizes" : "48x48"
+
+        },
+        {
+            "src" : "asset/images/SKILLHUB-72-72.png",
+            "sizes" : "72x72"
+
+        },
+        {
+            "src" : "asset/images/SKILLHUB-96-96.png",
+            "sizes" : "96x96"
+
+        },
+        {
+            "src" : "asset/images/SKILLHUB-144-144.png",
+            "sizes" : "144x144"
+
+        },
+        {
+            "src" : "asset/images/SKILLHUB-192-192.png",
+            "sizes" : "192x192"
+
+        },
+        {
+            "src" : "asset/images/SKILLHUB-512-512.png",
+            "sizes" : "512x512"
+
+        }
+    ]
+}
